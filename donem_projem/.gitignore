@@ -41,3 +41,19 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+/android/local.properties
+/android/.gradle/
+/android/build/
+/android/app/build/
+# Keystore dosyalarını gizle (Güvenlik)
+*.jks
+*.key
+*.keystore
+
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.framework
+/ios/Flutter/App.framework
+
+
